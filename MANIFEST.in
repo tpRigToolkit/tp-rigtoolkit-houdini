@@ -1,0 +1,3 @@
+recursive-include tp/rigtoolkit/houdini/resources/* *.*
+include versioneer.py
+include tp/rigtoolkit/houdini/_version.py
